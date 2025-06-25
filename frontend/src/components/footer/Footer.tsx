@@ -13,17 +13,16 @@ const Footer = () => {
         }}
       >
         <p style={{ fontSize: "30px", textAlign: "center", padding: "20px" }}>
-          Built With love by
+          Meet Shivakumar Dasari 💻
           <span>
             <Link
               style={{ color: "white" }}
               className="nav-link"
-              to={"https://youtube.com/indiancoders"}
+              to={"https://www.linkedin.com/in/dasari-shivakumar-fullstack38998/"}
             >
-              Indian Coders
+              here
             </Link>
           </span>
-          💘
         </p>
       </div>
     </footer>
